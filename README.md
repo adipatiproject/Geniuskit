@@ -1,2 +1,2 @@
 # Geniuskit
-Situs Teknologi
+Situs <a href="https://www.adipati.net">Teknologi</a>
